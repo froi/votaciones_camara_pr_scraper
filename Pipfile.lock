@@ -1,0 +1,114 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e2706da874ffc5f1ffcb46282cb4e16302a2865e615c71890a4e29b1ae4c3c6e"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "asn1crypto": {
+            "version": "==0.22.0"
+        },
+        "attrs": {
+            "version": "==17.2.0"
+        },
+        "automat": {
+            "version": "==0.6.0"
+        },
+        "cffi": {
+            "version": "==1.10.0"
+        },
+        "constantly": {
+            "version": "==15.1.0"
+        },
+        "cryptography": {
+            "version": "==2.0.2"
+        },
+        "cssselect": {
+            "version": "==1.0.1"
+        },
+        "hyperlink": {
+            "version": "==17.3.0"
+        },
+        "idna": {
+            "version": "==2.5"
+        },
+        "incremental": {
+            "version": "==17.5.0"
+        },
+        "lxml": {
+            "version": "==3.8.0"
+        },
+        "parsel": {
+            "version": "==1.2.0"
+        },
+        "pyasn1": {
+            "version": "==0.3.1"
+        },
+        "pyasn1-modules": {
+            "version": "==0.0.10"
+        },
+        "pycparser": {
+            "version": "==2.18"
+        },
+        "pydispatcher": {
+            "version": "==2.0.5"
+        },
+        "pyopenssl": {
+            "version": "==17.2.0"
+        },
+        "queuelib": {
+            "version": "==1.4.2"
+        },
+        "scrapy": {
+            "version": "==1.4.0"
+        },
+        "service-identity": {
+            "version": "==17.0.0"
+        },
+        "setuptools": {
+            "version": "==36.2.7"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "twisted": {
+            "version": "==17.5.0"
+        },
+        "w3lib": {
+            "version": "==1.17.0"
+        },
+        "zope.interface": {
+            "version": "==4.4.2"
+        }
+    },
+    "develop": {
+        "astroid": {
+            "version": "==1.5.3"
+        },
+        "isort": {
+            "version": "==4.2.15"
+        },
+        "lazy-object-proxy": {
+            "version": "==1.3.1"
+        },
+        "mccabe": {
+            "version": "==0.6.1"
+        },
+        "pylint": {
+            "version": "==1.7.2"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "wrapt": {
+            "version": "==1.10.10"
+        }
+    }
+}
